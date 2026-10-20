@@ -9,8 +9,8 @@ A premium frontend-only React casino demo website crafted with a sophisticated b
 ## ⚜️ Highlights & Architectural Features
 
 ### 1. Aesthetic & Design System
-- **Obsidian & 24K Gold Theme**: Matte black surfaces (`#08090c`, `#121319`), brushed brass and gold borders (`#c5a059`, `#d4af37`), and rich velvet surfaces.
-- **Bespoke Typography**: Luxury serif fonts (**Cinzel**, **Playfair Display**) paired with crisp tabular numerals (**JetBrains Mono**) and modern clean UI sans-serif (**Inter**).
+- **Obsidian & 24K Gold Theme**: Matte black surfaces , brushed brass and gold borders, and rich velvet surfaces.
+- **Bespoke Typography**: Luxury serif fonts paired with crisp tabular numerals and modern clean UI sans-serif.
 - **Physical Feel**: Avoids generic neon/purple gradients, bubbly cartoon shapes, and visual clutter, delivering an authentic Monte Carlo VIP salon atmosphere.
 
 ### 2. Physical Web Audio Synthesis Engine
